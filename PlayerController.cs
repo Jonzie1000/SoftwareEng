@@ -52,7 +52,7 @@ public class PlayerController : MonoBehaviour
         }
         else
         {
-
+            //For Computer use
             if (Input.GetMouseButton(0))
             {
                 /*
